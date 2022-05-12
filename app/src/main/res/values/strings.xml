@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Demo TIme and Date App</string>
+    <string name="display_time">Display TIme</string>
+    <string name="display_date">Display Date</string>
+    <string name="reset">Reset</string>
+    <string name="tvDisplay">Results will be displayed here</string>
+</resources>
